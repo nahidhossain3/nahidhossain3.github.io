@@ -1,0 +1,1030 @@
+[03-Nov-2021 14:08:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'nahiuzfc_shihab'@'localhost' to database 'nahid' in /home/nahiuzfc/public_html/nahid/papers/proc.php on line 21
+[09-Nov-2021 13:56:31 UTC] PHP Fatal error:  Cannot redeclare getOS() (previously declared in /home/nahiuzfc/public_html/papers/proc.php:55) in /home/nahiuzfc/public_html/papers/proc.php on line 53
+[09-Nov-2021 14:01:19 UTC] PHP Fatal error:  Cannot redeclare getOS() (previously declared in /home/nahiuzfc/public_html/papers/proc.php:55) in /home/nahiuzfc/public_html/papers/proc.php on line 53
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_browser in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_os in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_browser in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_os in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_browser in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_os in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_browser in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_os in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_browser in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_os in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_browser in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:05:51 UTC] PHP Notice:  Undefined variable: user_os in /home/nahiuzfc/public_html/papers/proc.php on line 52
+[09-Nov-2021 14:07:06 UTC] PHP Fatal error:  Cannot redeclare getOS() (previously declared in /home/nahiuzfc/public_html/papers/proc.php:54) in /home/nahiuzfc/public_html/papers/proc.php on line 53
+[09-Nov-2021 14:08:00 UTC] PHP Notice:  Undefined index: useragent in /home/nahiuzfc/public_html/papers/proc.php on line 53
+[09-Nov-2021 14:11:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getOS(), 0 passed in /home/nahiuzfc/public_html/papers/proc.php on line 116 and exactly 1 expected in /home/nahiuzfc/public_html/papers/proc.php:53
+Stack trace:
+#0 /home/nahiuzfc/public_html/papers/proc.php(116): getOS()
+#1 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 53
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 15:50:15 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:04 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 131
+[10-Nov-2021 16:08:23 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 16:08:47 UTC] PHP Warning:  Illegal string offset 'country_name' in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 16:30:52 UTC] PHP Warning:  Illegal string offset 'ip_number' in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 16:32:19 UTC] PHP Warning:  Illegal string offset 'ip_number' in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:11:35 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:16 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:12:22 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 118
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 119
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 120
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_exec(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 121
+[10-Nov-2021 17:13:00 UTC] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/nahiuzfc/public_html/papers/proc.php on line 122
+[05-Feb-2023 13:04:00 UTC] PHP Notice:  Undefined variable: conn in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nahiuzfc/public_html/papers/proc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:14 UTC] PHP Notice:  Undefined variable: conn in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nahiuzfc/public_html/papers/proc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:17 UTC] PHP Notice:  Undefined variable: conn in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nahiuzfc/public_html/papers/proc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:18 UTC] PHP Notice:  Undefined variable: conn in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nahiuzfc/public_html/papers/proc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:21 UTC] PHP Notice:  Undefined variable: conn in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nahiuzfc/public_html/papers/proc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:22 UTC] PHP Notice:  Undefined variable: conn in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nahiuzfc/public_html/papers/proc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:24 UTC] PHP Notice:  Undefined variable: conn in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nahiuzfc/public_html/papers/proc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:30 UTC] PHP Notice:  Undefined variable: conn in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:05:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/nahiuzfc/public_html/papers/proc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nahiuzfc/public_html/papers/proc.php on line 21
+[05-Feb-2023 13:22:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 97
+[05-Feb-2023 13:22:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nahiuzfc/public_html/papers/proc.php on line 99
+[05-Feb-2023 13:22:43 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 198
+[05-Feb-2023 13:23:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 96
+[05-Feb-2023 13:23:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nahiuzfc/public_html/papers/proc.php on line 98
+[05-Feb-2023 13:23:34 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 197
+[05-Feb-2023 13:24:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 96
+[05-Feb-2023 13:24:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nahiuzfc/public_html/papers/proc.php on line 98
+[05-Feb-2023 13:24:41 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 197
+[05-Feb-2023 13:25:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 96
+[05-Feb-2023 13:25:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nahiuzfc/public_html/papers/proc.php on line 98
+[05-Feb-2023 13:25:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 197
+[05-Feb-2023 13:26:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 89
+[05-Feb-2023 13:26:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/nahiuzfc/public_html/papers/proc.php on line 91
+[05-Feb-2023 13:26:29 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nahiuzfc/public_html/papers/proc.php on line 190
+[13-May-2024 07:51:33 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/nahiuzfc/public_html/papers/moni2e.php on line 5

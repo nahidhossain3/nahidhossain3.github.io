@@ -1,6 +1,423 @@
-<html>
-<body>
-Site Under Construction!
-Meanwhile visit <a href="https://www.nahid.org/">My Personal Website</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Nahid Hossain</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="Nahid Hossain, Assistant Professor, Dept. of CSE, United International University, UIU" name="keywords">
+  <meta content="The Personal Website of Nahid Hossain, Assistant Professor, Dept. of CSE, United International University (UIU)" name="description">
+
+  <!-- Favicons -->
+  <link href="img/favicon.ico" rel="icon">
+  <link href="img/favicon.ico" rel="apple-touch-icon">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+  <link href="img/favicon.ico" rel="icon">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+<style>
+
+
+  .link {
+    color: #0099FF; /* Set the default color */
+    text-decoration: none; /* Remove underline */
+  }
+
+  .link:hover {
+    color: #FF9900; /* Set the color you want when hovering */
+  }
+  label {display: inline;}
+  .p_t{
+    color:#478143;
+    font-weight:500;
+  }
+  .p_jc{
+    color:red;
+  }
+  .p_i{
+    width:140px;
+    height:100px;
+  }
+  table tr td { font-size: 15px; }
+
+.vertical-menu {
+  width: 100%;
+}
+
+.vertical-menu a {
+  background-color: #fff;
+  color: #0099FF;
+  display: block;
+  text-decoration: none;
+  outline: 0;
+  font-size:14px;
+  
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: #E3FEF4;
+  color: #0099FF;
+}
+.tooltippaper {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltippaper .tooltippapertext {
+  visibility: hidden;
+  width: 200px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 5px 0;
+  font-size: 12px;
+  /* Position the tooltippaper */
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 105%;
+}
+
+.tooltippaper:hover .tooltippapertext {
+  visibility: visible;
+}
+.p_info{
+  width: 20px; height: 20px;
+}
+td, th {
+  border: 1px solid #CBC80B;
+}
+td:not(:first-child), th:not(:first-child) {
+  border-left: 1px dotted;
+}
+
+td:not(:last-child), th:not(:last-child) {
+  border-right: 1px dotted;
+}
+.contact_link{
+  color:red;
+}
+
+
+.buttons_cv {
+  display: flex;
+  width: 100%;
+  gap: 10px;
+  --b: 5px;   /* the border thickness */
+  --h: 2.3em; /* the height */
+}
+
+.buttons_cv button {
+  --_c: #008AE6;
+  flex: calc(1 + var(--_s,0));
+  min-width: 0;
+  font-size: 14px;
+  font-weight: bold;
+  height: var(--h);
+  cursor: pointer;
+  color: var(--_c);
+  border: var(--b) solid var(--_c);
+  background: 
+    conic-gradient(at calc(100% - 1.3*var(--b)) 0,var(--_c) 209deg, #0000 211deg) 
+    border-box;
+  clip-path: polygon(0 0,100% 0,calc(100% - 0.577*var(--h)) 100%,0 100%);
+  padding: 0 calc(0.288*var(--h)) 0 0;
+  margin: 0 calc(-0.288*var(--h)) 0 0;
+  box-sizing: border-box;
+  transition: flex .4s;
+}
+.buttons_cv button + button {
+  --_c: #008AE6;
+  flex: calc(1 + var(--_s,0));
+  background: 
+    conic-gradient(from -90deg at calc(1.3*var(--b)) 100%,var(--_c) 119deg, #0000 121deg) 
+    border-box;
+  clip-path: polygon(calc(0.577*var(--h)) 0,100% 0,100% 100%,0 100%);
+  margin: 0 0 0 calc(-0.288*var(--h));
+  padding: 0 0 0 calc(0.288*var(--h));
+}
+.buttons_cv button:focus-visible {
+  outline-offset: calc(-2*var(--b));
+  outline: calc(var(--b)/2) solid #000;
+  background: none;
+  clip-path: none;
+  margin: 0;
+  padding: 0;
+}
+.buttons_cv button:focus-visible + button {
+  background: none;
+  clip-path: none;
+  margin: 0;
+  padding: 0;
+}
+.buttons_cv button:has(+ button:focus-visible) {
+  background: none;
+  clip-path: none;
+  margin: 0;
+  padding: 0;
+}
+button:hover,
+button:active:not(:focus-visible) {
+  --_s: .90;
+}
+button:active {
+  box-shadow: inset 0 0 0 100vmax var(--_c);
+  color: #fff;
+}
+.container {
+      display: flex;
+    }
+
+    #git_left {
+      width: 30%;
+    }
+
+    #git_right {
+      width: 70%;
+    }
+
+#div_pub{
+
+}
+.lead{
+  color: #000;
+  font-size: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+</style>
+</head>
+
+<body id="page-top">
+<?php 
+  $citation_date = " 17 February, 2024";
+?>
+
+  <!--/ Intro Skew End /-->
+
+  <section id="about" class="about-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="box-shadow-full">
+            <div class="container">
+              <div id="git_left">
+                <div class="about-img">
+                  <img src="img/nahid.jpg" style="width: 65%; height: 65%; border-radius: 10px;" class="img-fluid rounded b-shadow-a" alt="">
+                </div>
+                <div class="skill-mf">
+               <span><b><i>Experiences:</i></b></span><br>
+               <span>Program Coordinator, Dept of CSE, UIU<br><small>(23 Jan,2024 to Present)</small></span><br>
+               <span>Assistant Professor, Dept of CSE, UIU <br><small>(6 Mar,2021 to Present)</small></span><br>
+               <span>Lecturer, Dept of CSE, UIU <br><small>(26 Apr,2018 to 5 Mar, 2021)</small></span><br> 
+               <span>Software Engineer, AI Division, eGeneration Ltd. <br><small>(26 Jul,2017 – 25 Apr,2018)</small></span><br><br>  
+               <span><b><i>Research Focus:</i></b></span><br>
+              <span>Language Understanding & Generation</span><br> 
+              <span>Language Technology & Resources</span>
+              <span>Large Language Models</span>
+              </div>
+              
+            </div>
+            <div id="git_right">
+              <div class="title-box-2">
+                  <h2>Nahid Hossain</h2>
+
+               
+                Assistant Professor & Program Coordinator, Dept. of CSE<br> United International University (UIU), Bangladesh<br>
+                nahid@cse.uiu.ac.bd
+              </div>
+              <p class="lead" style="text-align:justify">
+                I am Nahid Hossain, currently serving as an Assistant Professor and Program Coordinator in the Computer Science and Engineering (CSE) department at <a style="color: #0059ff;" href="https://www.uiu.ac.bd/">United International University (UIU)</a>, Bangladesh. Prior to this, I held the position of Lecturer in the same department. Before joining UIU, I worked as a Software Engineer in the AI Division at <a style="color: #0059ff;" href="https://egeneration.co/">eGeneration Ltd</a>, Bangladesh. I hold a Master's and a Bachelor's degree in CSE. <br><br>
+
+                My research primarily focuses on Natural Language Processing (NLP) and Deep Learning, specifically in Language Understanding & Generation, Language Technology & Resources, and Large Language Models. <br><br>
+                
+                I am a first-generation student born and raised in rural Bangladesh. I moved to the capital in 2012 to pursue higher studies. I identify as a heterosexual, cisgender male (he/him) and believe in treating everyone with respect, regardless of their sexual orientation, gender, or any other aspect of their identity.
+
+             <!--<p style='font-size:16px'><b>Personal:</b> I identify as a heterosexual cisgender male (he/him) and believe in treating everyone with respect, regardless of their sexual orientation, gender identity, or any other aspect of their identity.</p>-->
+              </p>
+              <div class="buttons_cv">
+                <button onclick="location.href='https://nahid.org';">Personal Website</button>
+              <button onclick="location.href='https://scholar.google.com/citations?hl=en&user=RfDKmcoAAAAJ&view_op=list_works&sortby=pubdate';">Google Scholar</button></a>
+              </div>
+            </div>
+            </div>
+            <br><br>
+            <div id="div_pub">
+              <h5>Publication </h5>[J=journal article , C=conference article, * denotes equal contribution]        
+              <table style="text-align: justify;" border="1px" >
+                  
+         <tr style="height:100px"><td>
+          
+         [J4].</td><td><img class="p_i" src="papers/img/jp1.jpg"></td><td>  <label class="p_t">A Transformer-based Spelling Error Correction Framework for Bangla and Resource Scarce Indic Languages</label><br>Mehedi Hasan Bijoy*, <b>Nahid Hossain*</b>, Salekul Islam, Swakkhar Shatabda, Volume 89, Computer Speech and Language, ISSN 0885-2308, Elsevier, 2025, https://doi.org/10.1016/j.csl.2024.101703 [<b>Q1</b> - Impact factor: 3.1, CiteScore: 11.3, , Indexed by Scopus and others.]
+        </td><td width="9%" style="text-align:center">
+        <div class="vertical-menu">
+          <a href="https://www.sciencedirect.com/science/article/pii/S088523082400086X">source</a>
+          <a href="papers/j5.pdf">pdf</a>
+          <a href="code/JP1_DPCSpell_Code.zip">code</a>
+          <a href="#" class="active">citation: 6 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+        </div>
+        </td></tr>          
+                  <tr style="height:100px"><td>
+         [J3].</td><td><img class="p_i" src="papers/img/j4.jpg"></td><td><label class="p_t">Panini: a transformer-based grammatical error correction method for Bangla</label><br><b>Nahid Hossain</b>, Mehedi Hasan Bijoy, Salekul Islam, Swakkhar Shatabda, Neural Computing and Applications (NCAA), Springer Nature, https://doi.org/10.1007/s00521-023-09211-7 2023 [<b>Q1</b> - Impact Factor: 4.7, CiteScore: 11.4, Indexed by Scopus and others. Publisher: Springer Nature]
+        </td><td width="9%" style="text-align:center">
+        <div class="vertical-menu">
+          <a href="https://link.springer.com/article/10.1007/s00521-023-09211-7">source</a>
+          <a href="papers/j4.pdf">pdf</a>
+          <a href="code/J4_Panini_Code.zip">code</a>
+          <a href="#" class="active">citation: 4 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+        </div>
+        </td></tr>
+        
+        <tr style="height:100px"><td>          
+        [J2].</td><td><img class="p_i" src="papers/img/j2.jpg"></td><td><label class="p_t">Inclusive Bidirectional Conversion System between Chittagonian and Standard Bangla</label><br><b>Nahid Hossain</b>, Hafizur Rahman Milon, Sheikh Nasir Uddin Sabbir, Azfar Inan, in Bulletin of Electrical Engineering and Informatics, vol.11(1), 396–404, ISSN:2089-3191E-ISSN:2302-9285, 2022, doi:10.11591/eei.v11i1.3237 [<b>Q3</b> - CiteScore: 3.6, Indexed by Scopus and others, Publisher: IAES]
+        </td><td width="9%" style="text-align:center">
+        <div class="vertical-menu">
+          <a href="https://beei.org/index.php/EEI/article/view/3237/">source</a>
+          <a href="papers/j2.pdf">pdf</a>
+          <a href="#" class="active">citation: 2 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+        </div>
+        </td></tr>
+        
+        <tr style="height:100px" ><td>
+        [J1].</td><td><img class="p_i" src="papers/img/j1.jpg"></td><td><label class="p_t">Development of Bangla Spell and Grammar Checkers: Resource Creation and Evaluation</label><br><b>Nahid Hossain</b>, Salekul Islam, Mohammad Nurul Huda, in IEEE Access, vol. 9, pp. 141079-141097, ISSN:2169-3536, 2021, doi: 10.1109/ACCESS.2021.3119627 [<b>Q1</b> - Impact Factor: 3.9, CiteScore: 9.8, Indexed by Scopus and others. Publisher: IEEE]
+        </td><td width="9%" style="text-align:center">
+        <div class="vertical-menu">
+          <a href="https://ieeexplore.ieee.org/document/9568876">source</a>
+          <a href="papers/j1.pdf">pdf</a>
+          <a href="#" class="active">citation: 19 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+        </div>
+        </td></tr>
+
+
+        <tr style="height:100px" ><td>
+          [C8].</td><td><img class="p_i" src="papers/img/c12.jpg"></td><td><label class="p_t">BERT-based Text Simplification Approach to Reduce Linguistic Complexity of Bangla Language</label><br><b>Nahid Hossain</b> and Adil Ahnaf, 2021 International Conference on Intelligent Technology, System and Service for Internet of Everything(ITSS-IoE 2021),  2021, pp. 1-5, doi: 10.1109/ITSS-IoE53029.2021.9615303. Sanna, Yemen [Publisher: IEEE]
+          </td><td width="9%" style="text-align:center">
+          <div class="vertical-menu">
+            <a href="https://ieeexplore.ieee.org/document/9615303">source</a>
+            <a href="papers/c12.pdf">pdf</a>
+            <a href="#" class="active">citation: 3 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+          </div>
+          </td>
+          </tr>
+          
+          <tr style="height:100px"><br><td>
+          [C7].</td><td><img class="p_i" src="papers/img/c11.jpg"></td><td><label class="p_t">Abstractive Headline Generation from Bangla News Articles Using Seq2Seq RNNs with Global Attention</label><br>Ruhul Amin*, Nabila Sabrin Sworna*, Md Nazmul Khan Liton and <b>Nahid Hossain*</b>, 2021 International Conference on Science & Contemporary Technologies (ICSCT), 2021, pp. 1-5, doi: 10.1109/ICSCT53883.2021.9642642.[Publisher: IEEE]
+          </td><td width="9%" style="text-align:center">
+          <div class="vertical-menu">
+            <a href="https://ieeexplore.ieee.org/document/9642642">source</a>
+            <a href="papers/c11.pdf">pdf</a>
+            <a href="#" class="active">citation: 5 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+          </div>
+          </td>
+          </tr>
+            
+          
+          <tr style="height:100px"><td>
+          
+          [C6].</td><td><img class="p_i" src="papers/img/c9.jpg"></td><td><label class="p_t">Bangladesh Crime Reports Analysis and Prediction</label><br>Md Pavel Rahman*, A.K.M Ifranul Hoque*, Md. Faysal Ahmed, Iftekhirul, Ashraful Alam and <b>Nahid Hossain*</b>,  2021 International Conference on Software Engineering & Computer Systems and 4th International Conference on Computational Science and Information Management (ICSECS-ICOCSIM), Pahang, Malaysia, 2021, pp. 453-458, doi: 10.1109/ICSECS52883.2021.00089. [Publisher: IEEE]
+          </td><td width="9%" style="text-align:center">
+          <div class="vertical-menu">
+            <a href="https://ieeexplore.ieee.org/document/9537042">source</a>
+            <a href="papers/c9.pdf">pdf</a>
+            <a href="#" class="active">citation: 6 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+          </div>
+          </td></tr><tr style="height:100px"><td> 
+          
+          [C5].</td><td><img class="p_i" src="papers/img/c8.jpg"></td><td><label class="p_t">A Comprehensive Dialect Conversion Approach from Chittagonian to Standard Bangla</label><br>Hafizur Rahman Milon, Sheikh Nasir Uddin Sabbir, Azfar Inan, and <b>Nahid Hossain</b>, 2020 IEEE Region 10 Symposium (TENSYMP), Dhaka, Bangladesh, 2020, pp. 214- 217, doi: 10.1109/TENSYMP50017.2020.9230714. [Publisher: IEEE]
+          </td><td width="9%" style="text-align:center">
+          <div class="vertical-menu">
+            <a href="https://ieeexplore.ieee.org/document/9230714">source</a>
+            <a href="papers/c8.pdf">pdf</a>
+            <a href="#" class="active">citation: 2 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+          </div></td></tr><tr style="height:100px"><td>
+           
+          
+          [C4].</td><td><img class="p_i" src="papers/img/c6.jpg"></td><td><label class="p_t">Multiclass Classification for Bangla News Tags with Parallel CNN Using Word Level Data Augmentation</label><br>Ruhul Amin, Nabila Sabrin Sworna, and <b>Nahid Hossain</b>, 2020 IEEE Region 10 Symposium (TENSYMP), Dhaka, Bangladesh, 2020, pp. 174-177, doi: 10.1109/TENSYMP50017.2020.9230981. [Publisher: IEEE]
+          </td><td width="9%" style="text-align:center">
+          <div class="vertical-menu">
+            <a href="https://ieeexplore.ieee.org/document/9230981">source</a>
+            <a href="papers/c6.pdf">pdf</a>
+            <a href="#" class="active">citation: 11 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+          </div></td></tr><tr style="height:100px"><td>
+           
+          
+          [C3].</td><td><img class="p_i" src="papers/img/c4.jpg"></td><td><label class="p_t">A Bangla Spam Email Detection and Datasets Creation Approach based on Machine Learning Algorithms</label><br>Ruhul Amin, Md. Moshiur Rahman, and <b>Nahid Hossain</b>, 2019 3rd International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE), Rajshahi, Bangladesh, 2019, pp. 169-172, doi: 10.1109/ICECTE48615.2019.9303525. [Publisher: IEEE]
+          </td><td width="9%" style="text-align:center">
+          <div class="vertical-menu">
+            <a href="https://ieeexplore.ieee.org/document/9303525">source</a>
+            <a href="papers/c4.pdf">pdf</a>
+            <a href="#" class="active">citation: 15 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+          </div></td></tr><tr style="height:100px"><td>
+           
+          
+          [C2].</td><td><img class="p_i" src="papers/img/c3.jpg"></td><td><label class="p_t">Disha: An Implementation of Machine Learning Based Bangla Healthcare Chatbot</label><br>Md. Moshiur Rahman, Ruhul Amin, Md Nazmul Khan Liton and <b>Nahid Hossain</b>, 2019 22nd International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICCIT48885.2019.9038579. [Publisher: IEEE]
+          </td><td width="9%" style="text-align:center">
+          <div class="vertical-menu">
+            <a href="https://ieeexplore.ieee.org/document/9038579">source</a>
+            <a href="papers/c3.pdf">pdf</a>
+            <a href="#" class="active">citation: 50 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+          </div></td></tr><tr style="height:100px"><td>
+           
+          
+          [C1].</td><td><img class="p_i" src="papers/img/c1.jpg"></td><td><label class="p_t">A Comprehensive Parts of Speech Tagger for Automatically Checked Valid Bengali Sentences</label><br><b>Nahid Hossain</b> and Mohammad Nurul Huda, 2018 21st International Conference of Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2018, pp. 1-5. doi:10.1109/ICCITECHN.2018.8631961 [Publisher: IEEE]
+          </td><td width="9%" style="text-align:center">
+          <div class="vertical-menu">
+            <a href="https://ieeexplore.ieee.org/document/8631961">source</a>
+            <a href="papers/c1.pdf">pdf</a>
+            <a href="#" class="active">citation: 2 <div class="tooltippaper"><img class="p_info" src="papers/img/info3d.png"><span class="tooltippapertext">Source: Google Scholar.<br>Last Updated:<?php echo $citation_date; ?></span></div></a>
+          </div></td></tr>
+
+        </table>
+            </div>
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+
+
+  <!-- Template Main Javascript File -->
+  <script type="text/javascript" src="js/main_nahid.js"></script>
+  <script type="text/javascript" src="js/submit.js"></script>
+  <script type="text/javascript" src="js/modals.js"></script>
 </body>
 </html>
+
+</script>
